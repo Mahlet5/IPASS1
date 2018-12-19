@@ -1,7 +1,9 @@
 .bt{
   display: block;
   margin:5px;
-  font: bolder;
+	font: bolder;
+	font-size: 20px;
+	padding: 5px;
 }
 #header{
 	background-color: #284861;
@@ -10,12 +12,11 @@
 	padding: 5px;
 }
 #nav {
-  line-height: 30px;
-  background-color: #eeeeee;
-  height: 300px;
-  width :100px;
   float: left;
-  padding: 5px;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  width: 30%;
+  height: 750px;
 }
 #section {
 	width: 250px;
@@ -28,5 +29,5 @@
 	color: white;
 	clear: both;
 	text-align: center;
-	padding: 5px;
+	padding: 10px;
 }
