@@ -1,6 +1,7 @@
 function myFunction()
 {
-  location.replace("../../main/main.html")
+
+  location.replace("../admin.html")
 }
 function myFunction2()
 {

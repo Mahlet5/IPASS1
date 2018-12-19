@@ -1,4 +1,4 @@
 function myFunction()
 {
-  location.replace("../main/main.html")
+  location.replace("../login/index.html")
 }
