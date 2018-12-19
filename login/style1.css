@@ -1,0 +1,59 @@
+
+ html, body {
+ 	 margin: 0;
+    /* background-color:#284861; */   
+     color: black; 
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+	margin: 0;
+
+  }
+  .body{
+	  background-image: url(background.jpg);
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	  background-color: antiquewhite;
+	 
+  }
+ .title{
+ 	  color:#ffffff; 
+      font-size: 80px;
+      text-shadow: 3px 3px #000 ;
+ 	  margin: 10%;
+ 	  margin-bottom: 80px;
+ 	  font-family: sans-serif;
+ 	  text-align: center;
+ 	  
+ }
+  
+.login-box{
+	width: 300px;
+	height: 100px;
+	position: absolute;
+	top:50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	color:#000;
+}
+.login-box h1{
+	foat:left;
+	font-size:20px;
+	border-bottom: 6px solid #000;
+	margin-bottom: 20px;
+	padding: 20px 0
+
+}
+.textbox{
+	width: 100%;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 8px 0;
+	margin: 8px 0;
+	
+}
+./*img {
+ width:7%;
+ height:7%;
+ margin-right: -200%;
+}*/

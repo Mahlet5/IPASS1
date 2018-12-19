@@ -1,0 +1,18 @@
+body{
+  padding: 200px;
+  width: 40%;
+  margin: auto;
+
+}
+#user_save{
+
+margin-left: 300px;
+background-color: lightblue;
+
+}
+#home{
+float: right;
+margin-bottom: -900%;
+margin-left:900px;
+
+}
